@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Darvish 👋
 
-<!--
-**DDY665/DDY665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Backend & Web Developer (MERN)  
+🚀 Passionate about building real-world tech solutions  
+🟢 Open to internships, collaborations, and opportunities
 
-Here are some ideas to get you started:
+## What I Do
+- Build full-stack web applications
+- Work with Node.js, MongoDB, Express, and React
+- Explore AI, cybersecurity, and system design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- Learning advanced backend architecture
+- Building impactful projects and open-source contributions
+
+## Tech Stack
+`C++` `Python` `JavaScript` `Node.js` `Express` `MongoDB` `HTML` `CSS`
+
+## Connect
+📫 Reach me via GitHub issues or discussions
