@@ -15,7 +15,7 @@
 - Building impactful projects and open-source contributions
 
 ## Tech Stack
-`C++` `Python` `JavaScript` `Node.js` `Express` `MongoDB` `HTML` `CSS`
+`C++` `Python` `JavaScript` `Node.js` `Express` `MongoDB` `HTML` `CSS` `MySQL`
 
 ## Connect
-📫 Reach me via GitHub issues or discussions
+📫 Reach me via Linkedin
