@@ -7,7 +7,7 @@
 
 ## What I Do 🤔
 - Build full-stack web applications
-- Work with Node.js, MongoDB, Express, and React
+- Work with Node.js, MongoDB, MySQL, Express, and React
 - Explore AI, cybersecurity, and system design
 
 ## Currently 🕕
