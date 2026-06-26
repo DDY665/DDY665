@@ -1,21 +1,21 @@
 # Hi, I'm Darvish 👋
-
-- Computer Science Student  
-- Backend & Web Developer (MERN)  
-- Passionate about building real-world tech solutions  
+- Backend Developer (Node.js, REST APIs)
+- AI/RAG Engineering — LangChain, LangGraph, Groq
+- Final-year Computer Science Student
 - Open to internships, collaborations, and opportunities
 
-## What I Do 🤔
-- Build full-stack web applications
-- Work with Node.js, MongoDB, MySQL, Express, and React
-- Explore AI, cybersecurity, and system design
+## What I Build 🛠️
+- Full-stack apps with Node.js, Express, MongoDB/MySQL, React
+- Secure systems — JWT authentication, RBAC, audit logging
+- Production RAG pipelines — hybrid retrieval (FAISS + BM25), re-ranking, streaming
+- AI-powered security tooling (wireless IDS + LLM threat analysis)
 
 ## Currently 🕕
-- Learning advanced backend architecture
-- Building impactful projects and open-source contributions
+- Sharpening backend system design and architecture
+- Building and shipping new projects
 
 ## Tech Stack 🧑‍💻
-`C++` `Python` `JavaScript` `Node.js` `Express` `MongoDB` `HTML` `CSS` `MySQL`
+`Node.js` `Express` `MongoDB` `MySQL` `React` `Python` `JavaScript` `LangChain` `LangGraph` `JavaScript` `Java`
 
 ## Connect 🤝
-- Reach me via Linkedin
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/darvish-yadav-dega-a37134246/)
