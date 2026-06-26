@@ -18,4 +18,4 @@
 `Node.js` `Express` `MongoDB` `MySQL` `React` `Python` `JavaScript` `LangChain` `LangGraph` `JavaScript` `Java`
 
 ## Connect 🤝
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/darvish-yadav-dega-a37134246/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/darvish-yadav-dega-a37134246/)
