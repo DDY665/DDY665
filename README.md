@@ -1,13 +1,13 @@
 # Hi, I'm Darvish 👋
 - Backend Developer (Node.js, REST APIs)
-- AI/RAG Engineering — LangChain, LangGraph, Groq
+- AI/RAG Engineering : LangChain, LangGraph, Groq
 - Final-year Computer Science Student
 - Open to internships, collaborations, and opportunities
 
 ## What I Build 🛠️
 - Full-stack apps with Node.js, Express, MongoDB/MySQL, React
-- Secure systems — JWT authentication, RBAC, audit logging
-- Production RAG pipelines — hybrid retrieval (FAISS + BM25), re-ranking, streaming
+- Secure systems : JWT authentication, RBAC, audit logging
+- Production RAG pipelines : hybrid retrieval (FAISS + BM25), re-ranking, streaming
 - AI-powered security tooling (wireless IDS + LLM threat analysis)
 
 ## Currently 🕕
