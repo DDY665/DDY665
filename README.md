@@ -1,6 +1,6 @@
 # Hi, I'm Darvish 👋
 - Backend Developer (Node.js, REST APIs)
-- AI/RAG Engineering : LangChain, LangGraph, Groq
+- AI/RAG Engineering : LangChain, Groq
 - Final-year Computer Science Student
 - Open to internships, collaborations, and opportunities
 
