@@ -1,4 +1,3 @@
-<!-- HEADER BANNER -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=200&section=header&text=Darvish%20Yadav&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20%E2%80%A2%20AI%20%2F%20RAG%20Engineering&descSize=18&descAlignY=58" width="100%" />
@@ -11,26 +10,25 @@
 
 <a href="https://darvishyadav.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/darvish-yadav-dega-a37134246"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=DDY665&label=Profile%20Views&color=1f6feb&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-- 🎓 Final-year Computer Science student
-- ⚙️ Backend developer focused on **Node.js** and **REST APIs**
-- 🤖 AI/RAG engineering with **LangChain** and **Groq**
-- 🌱 Currently sharpening backend system design and architecture
-- 🤝 Open to internships, collaborations, and opportunities
+- Final-year Computer Science student
+- Backend developer focused on **Node.js** and **REST APIs**
+- AI/RAG engineering with **LangChain** and **Groq**
+- Currently sharpening backend system design and architecture
+- Open to internships, collaborations, and opportunities
 
 ## 🛠️ What I Build
 
-- 🧩 **Full-stack apps**: Node.js, Express, MongoDB/MySQL, React
-- 🔐 **Secure systems**: JWT authentication, RBAC, audit logging
-- 📚 **Production RAG pipelines**: hybrid retrieval (FAISS + BM25), re-ranking, streaming
-- 🛡️ **AI-powered security tooling**: wireless IDS + LLM threat analysis
+- **Full-stack apps**: Node.js, Express, MongoDB/MySQL, React
+- **Secure systems**: JWT authentication, RBAC, audit logging
+- **Production RAG pipelines**: hybrid retrieval (FAISS + BM25), re-ranking, streaming
+- **AI-powered security tooling**: wireless IDS + LLM threat analysis
 
 ## 💻 Tech Stack
 
